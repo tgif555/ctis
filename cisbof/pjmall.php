@@ -205,7 +205,7 @@ FROM         pjm_mstr INNER JOIN
                             </ol>
                         </div>
                     </div>
-                    <h3 class="content-header-title mb-0">C'TIS Projects</h3>
+                    <h3 class="content-header-title mb-0">C'TIS Projects1</h3>
                 </div>
                 <div class="content-header-right col-md-6 col-12">
                     <div class="btn-group float-md-right" role="group" aria-label="Button group with nested dropdown">
